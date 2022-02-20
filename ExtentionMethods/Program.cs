@@ -11,6 +11,7 @@ namespace ExtentionMethods
         static void Main(string[] args)
         {
             //Изменения 1
+            //Убеждаюсь, что коммиты прилетают на ГитХаб
             DateTime currentDateTime = DateTime.Now;
             currentDateTime.Print();
             DateTime.Now.Print();
