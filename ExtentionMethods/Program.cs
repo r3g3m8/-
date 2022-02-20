@@ -10,6 +10,7 @@ namespace ExtentionMethods
     {
         static void Main(string[] args)
         {
+            //Изменения 1
             DateTime currentDateTime = DateTime.Now;
             currentDateTime.Print();
             DateTime.Now.Print();
